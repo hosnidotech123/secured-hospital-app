@@ -33,6 +33,8 @@
   <h4>PatientController</h4>
   <img src="./images/patientcontroller1.PNG" width="500" >
   <img src="./images/patientcontroller2.PNG" width="500" >
+  <h4>SecurityController</h4>
+  <img src="./images/securitycontroller.PNG" width="500" >
   
   
 </p>
