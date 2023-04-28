@@ -40,6 +40,15 @@
   <h2>Entities</h2>
   <h4>Patient</h4>
   <img src="./images/patient.PNG" width="500" >
+  <h2>User Interfaces</h2>
+  <h4>Login UI</h4>
+  <img src="./images/login_ui.PNG" width="500" >
+  <h4>Admin UI</h4>
+  <img src="./images/admin_ui.PNG" width="500" >
+  <h4>Add Patient UI</h4>
+  <img src="./images/add_patient.PNG" width="500" >
+  <h4>User UI</h4>
+  <img src="./images/user_ui.PNG" width="500" >
   
   
   
