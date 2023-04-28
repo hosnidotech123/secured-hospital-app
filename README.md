@@ -14,10 +14,12 @@
   <img src="./images/template.PNG" width="500" >
   <img src="./images/template2.PNG" width="500" >
   <img src="./images/Liste des patients.PNG" width="500" >
-  <img src="./images/template.PNG" width="500" >
-  <img src="./images/template.PNG" width="500" >
-  <img src="./images/template.PNG" width="500" >
-  <img src="./images/template.PNG" width="500" >
+  <img src="./images/Liste des patients2.PNG" width="500" >
+  <img src="./images/Liste des patients3.PNG" width="500" >
+  <img src="./images/Not Authorized.PNG" width="500" >
+  <img src="./images/login.PNG" width="500" >
+  <img src="./images/formpatient.PNG" width="500" >
+  <img src="./images/editpatient.PNG" width="500" >
   
 </p>
 
