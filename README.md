@@ -10,6 +10,14 @@
   <img src="./images/pom5.PNG" width="500" >
   <h2>Application.properties</h2>
   <img src="./images/app_properties.PNG" width="500" >
+  <h2>Templates</h2>
+  <img src="./images/template.PNG" width="500" >
+  <img src="./images/template2.PNG" width="500" >
+  <img src="./images/Liste des patients.PNG" width="500" >
+  <img src="./images/template.PNG" width="500" >
+  <img src="./images/template.PNG" width="500" >
+  <img src="./images/template.PNG" width="500" >
+  <img src="./images/template.PNG" width="500" >
   
 </p>
 
