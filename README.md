@@ -29,6 +29,11 @@
   <img src="./images/editpatient.PNG" width="500" >
   <h2>HospitalAppApplication</h2>
   <img src="./images/hospitalapp.PNG" width="500" >
+  <h2>Web Controller</h2>
+  <h4>PatientController</h4>
+  <img src="./images/patientcontroller1.PNG" width="500" >
+  <img src="./images/patientcontroller2.PNG" width="500" >
+  
   
 </p>
 
