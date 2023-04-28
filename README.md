@@ -35,6 +35,13 @@
   <img src="./images/patientcontroller2.PNG" width="500" >
   <h4>SecurityController</h4>
   <img src="./images/securitycontroller.PNG" width="500" >
+  <h2>Security</h2>
+  <img src="./images/security.PNG" width="500" >
+  <h2>Entities</h2>
+  <h4>Patient</h4>
+  <img src="./images/patient.PNG" width="500" >
+  
+  
   
   
 </p>
